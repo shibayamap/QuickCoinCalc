@@ -15,7 +15,7 @@ This program reads trading data (in CSV format) from Bitbank or GMO Coin and cal
    実行後に、CSVデータのファイル名を入力してください。
    実行例:
    ```bash
-   python gmo.py
+   python gmocoin.py
    <example.csv>
 
 ## 動作確認環境
